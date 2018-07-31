@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2024 Project Flare
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Application name -->
+    <string name="flare_app_name" translatable="false">Flare Launcher</string>
+
+</resources>
