@@ -8,4 +8,6 @@
     <!-- Application name -->
     <string name="flare_app_name" translatable="false">Flare Launcher</string>
 
+    <!-- Folder titles -->
+    <string name="google_folder_title" translatable="false">Google</string>
 </resources>
